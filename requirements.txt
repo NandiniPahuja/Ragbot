@@ -1,0 +1,12 @@
+langchain>=0.0.267
+openai>=0.27.0
+faiss-cpu>=1.7.4
+python-dotenv>=1.0.0
+chromadb==0.4.3
+pypdf>=3.10.0
+langchain-community>=0.0.177
+langchain-openai>=0.0.1
+langchain-chroma>=0.0.1
+PyMuPDF>=1.24.0
+pydantic<2.0.0
+protobuf>=4.21.0
